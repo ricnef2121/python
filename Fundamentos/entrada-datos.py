@@ -1,0 +1,4 @@
+"""
+solictar datos desde consola
+"""
+
